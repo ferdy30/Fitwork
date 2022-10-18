@@ -1,0 +1,75 @@
+body{
+    background-image:url(/img/pesas.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.formulario{
+    background: rgba(0,0,0,0);
+    padding: 20px;
+}
+
+.cancelar{
+    background: white;
+    padding: 10px;
+    font-size: 10px;
+    font-weight: 700;
+    color: black;
+    font-style: inherit;
+    float: left;
+    margin:0 0 0 50px;
+}
+
+.aceptar{
+    background: rgba(125,204,89,255);
+    padding: 10px;
+    font-size: 10px;
+    font-weight: 700;
+    color: white;
+    font-style: inherit;
+    float: left;
+}
+
+.altura-a-b{
+    padding: 100px 0;
+}
+
+.btn{
+    width: 150px;
+}
+
+.registrar{
+    background: white;
+    padding: 10px;
+    font-size: 10px;
+    font-weight: 700;
+    color: black;
+    font-style: inherit;
+    float: none;
+    /*margin: 0 0 0 1350px;*/
+    position: relative;
+    position: absolute;
+    top: 10px;
+    left: 1240px;
+    
+}
+
+.logo{
+    width: 100px;
+    margin: 30px 0px 0px 20px ;
+}
+
+.correo{
+    background-color: rgb(192, 192, 192)  ;
+    color: white;
+}
+
+.contra{
+    background-color: rgb(192, 192, 192)  ;
+}
+
+
+.btn{
+    border: none;
+}

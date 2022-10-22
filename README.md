@@ -8,7 +8,7 @@
 ## Licencia implementada:
 ### Licencia Creative Commons
 Esta obra está bajo una Licencia Creative Commons Atribución-NoComercial 4.0 Internacional.
-
+[![licencia.png](https://i.postimg.cc/zv4Yk6Mh/licencia.png)](https://postimg.cc/YLNPrnt2)
 ## Herramintas: :computer:
 
 

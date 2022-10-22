@@ -6,6 +6,8 @@
 ## Integrantes: :busts_in_silhouette:
 
 ## Licencia implementada:
+### Licencia Creative Commons
+Esta obra está bajo una Licencia Creative Commons Atribución-NoComercial 4.0 Internacional.
 
 ## Herramintas: :computer:
 

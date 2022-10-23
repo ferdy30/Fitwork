@@ -5,6 +5,12 @@
 
 ## Integrantes: :busts_in_silhouette:
 
+1- LJ222345 Luis Fernando Lovo Juarez
+2- ME141299 Rony Stanley Marroquín Erroa
+3- MA161016 Vanessa Steffany Melendez Alvarado
+4- PP220664 Kenya Elizabeth Parada Palma
+5- RO201303  Jared Jazer Romero Orellana
+
 ## Licencia implementada:
 ### Licencia Creative Commons
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licencia Creative Commons Atribución-NoComercial 4.0 Internacional</a>.

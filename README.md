@@ -6,10 +6,10 @@
 ## Integrantes: :busts_in_silhouette:
 
 1- LJ222345 Luis Fernando Lovo Juarez<br>
-2- ME141299 Rony Stanley Marroquín Erroa
-3- MA161016 Vanessa Steffany Melendez Alvarado
-4- PP220664 Kenya Elizabeth Parada Palma
-5- RO201303  Jared Jazer Romero Orellana
+2- ME141299 Rony Stanley Marroquín Erroa <br>
+3- MA161016 Vanessa Steffany Melendez Alvarado<br>
+4- PP220664 Kenya Elizabeth Parada Palma<br>
+5- RO201303  Jared Jazer Romero Orellana<br>
 
 ## Licencia implementada:
 ### Licencia Creative Commons

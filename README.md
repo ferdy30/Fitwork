@@ -23,3 +23,11 @@ https://console.firebase.google.com/project/workfit-85179/overview?hl=es-419
 ## Guia de instalación :clipboard:
 Antes de comenzar, asegurese de tener instaldo:<br>
 
+:black_medium_square: Visual Studio <br>
+:black_medium_square: Git<br>
+:black_medium_square: Seleccionar una carpeta de su equipo local donde clonará y almacenará el repositorio<br>
+:black_medium_square: Una vez seleccionada la carpeta, abra "Git Bash" y ejecute el comando git clone https://github.com/ferdy30/Veterinaria-Puppy.git Esto le permitirá conectarse de una vez al repositorio.<br>
+:black_medium_square: Crear una rama de colaboración para poder agregar los cambios realizados a Github.<br>
+:black_medium_square: Una vez este conectado al repositorio y haya creado su rama, puede comenzar a colaborar desde su equipo local, para lo que será necesario abrir el proyecto desde su vicual studio code.<br>
+:black_medium_square: Realice las modificaciones necesarias y ejecute los comandos: git add -A para agregar los cambios, git commit -m "comentario" y finalmente git push -u origin SuRama para agregar los cambios al repositorio remoto.
+

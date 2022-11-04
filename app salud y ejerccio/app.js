@@ -16,7 +16,7 @@ function clickbtncalcular(){
 
 
     var IMC= peso/(altura*altura)
-    alert("su imc es :" + Math.round(IMC))
+    document.getElementById("respuesta").innerHTML= 'Su indice de masa corporal es de : ' +""+""+ Math.round(IMC)
     
     
     

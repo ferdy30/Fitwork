@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/registro.css">
+    <script src="js/validacion.js"></script>
     <title>Registro</title>
 </head>
 <body>
@@ -19,27 +20,26 @@
                     <h1>registro</h1>
                 
 
-                <div class="contenedorformulario">
-                    <form>
-                        <div class="inputContenedor">
-                            <input type="text" required class="txtform" name="" id="" placeholder="Nombre">
-                        </div>
-
-                        <div class="inputContenedor">
-                            <input type="text" name="" required class="txtform" id="" placeholder="Correo electronico">
-                        </div>
-
-                        <div class="inputContenedor">
-                            <input type="password" required class="txtform" name="" id="" placeholder="Contraseña">
-                        </div>
-                        
-                        <div class="contenedorBotones">
-                            <input type="button" class="btncancelar" value="Cancelar" onclick="location.href='../Fitwork/index.html'">
-                            <input type="button" class="btnaceptar" value="Aceptar">
-                        </div>
-                        
-                    </form>
-                </div>
+                    <div class="contenedorformulario">
+                        <form id="form" method="Post" action="">
+                            <div class="inputContenedor" id="grupo__nombre">
+                                <input type="text" required class="txtform"  name="txtnombre" id="txtnombre" placeholder="Nombre">
+                            </div>
+    
+                            <div class="inputContenedor" id="grupo__correo">
+                                <input type="text" name="txtcorreo" required class="txtform" id="txtcorreo" placeholder="Correo electronico">
+                            </div>
+    
+                            <div class="inputContenedor" id="grupo__contra">
+                                <input type="password" required class="txtform" name="txtcontraseña" id="txtcontraseña" placeholder="Contraseña">                        
+                            </div>
+                            
+                            <div class="contenedorBotones">
+                                <input type="button" class="btncancelar" value="Cancelar" onclick="location.href='../Fitwork/index.html'">
+                                <button type="submit" class="btnaceptar">Aceptar</button>>                                
+                            </div>                            
+                        </form>
+                    </div>
             </div>
         </div>
 

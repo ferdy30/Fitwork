@@ -5,7 +5,7 @@
 body {
     width: 100%;
     height: 100vh;
-    background-image: url(img/img4.jpg);
+    background-image: url(img/img5.jpg);
     background-size: 100vw 100vh;
     background-attachment: fixed;
     margin:0;
@@ -56,7 +56,6 @@ body {
     height: 52px;
     left: 10cm;
     top: 22px;
-
     color: white;
 }
 .textgreen{
@@ -92,9 +91,9 @@ form{
     --border-fondo1:20px solid white;
     --border-fondo2:20px solid white;
     --border-fondo3:20px solid white;
-    --border1:20px solid rgb(10, 214, 10);
-    --border2:20px solid rgb(10, 214, 10);
-    --border3:20px solid rgb(10, 214, 10);
+    --border1:20px solid #7DCB59;
+    --border2:20px solid #7DCB59;
+    --border3:20px solid #7DCB59;
 }
 .contenedor{
     height: 250px;
@@ -274,5 +273,13 @@ h1{
   }
   #container2{
     position: center;
-    margin-top: 250px;
+    margin-top: 230px;
   }
+
+  #container3{
+    position: center;
+  }
+  
+
+
+

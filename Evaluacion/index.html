@@ -3,8 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="icon" type="image/x-icon" href="../favicon.ico">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Workfit</title>
 <link rel="stylesheet" href="styles\estilos.css"/>
 
 </head>
@@ -13,35 +14,62 @@
 
 
     <div id="salud">
-        <h1>SALUD Y EJERCICIOS</h1>
+        <p>SALUD Y EJERCICIOS</p>
          <br>
          <br>
-        <h5>Con esta informacion tendremos la oportuidad de proveerte las mejores rutinas de ejercicio y conocer tu condicion fisica actual</h5>
+        <h3>Con esta informacion tendremos la oportuidad de proveerte las mejores rutinas de ejercicio y conocer tu condicion fisica actual</h3>
         <br>
         <br>
          <form accion="form" id="input">
 
-            <input  id="txtpeso" type="textpeso" placeholder="Ingrese peso" size="45px", width="45%" >
+            <input  id="txtpeso" type="textpeso" placeholder="Ingrese peso en libras" size="45px", width="45%" >
             <br>
             <br>
-            <input id="txtaltura" type="textaltura" placeholder="Ingrese altura" size="45px">
+            <input id="txtaltura" type="textaltura" placeholder="Ingrese altura 1.70 m" size="45px">
             <br>
             <br>
-            <label id="respuesta"  type="textaltura"  size="45px" >
+            
            
           
             
          </form>
           <br>
           <br>
-         <button  id="btncalcular">Enviar</button>
-                
+  
          
-            
-        </div>
-        <script src="app.js"></script>
+         
       
+        
+        <!--BOTON CALCULAR-->
+        
+
+        <label for="btn-modal" class="lbl-modal" >CALCULAR</label>
+         </div>
+        <input type="checkbox" id="btn-modal">
+     
+               
+       
     
+	
+         <!--VENTANA EMERGENTE-->
+    
+         <div class="modal">
+		<div class="contenedor">
+			<header><h1 class="logo" id="logo1">Work<span class="textgreen">fit</span></h1></header>
+			<label for="btn-modal">X</label>
+			<div class="contenido">
+				<p1 id="respuesta" type="textaltura"></p1>
+                <br>
+                <br>
+                <p1 id="rutinas" type="textaltura"></p1>
+                <br>
+                <br>
+                <a href="..\Rutinas\rutinas.html"><button id="botonR">Rutinas</button></a>
+			</div>
+		</div>
+	</div>
+      
+       <script src="app.js"></script>
 </body>
 
 <footer id="pie">

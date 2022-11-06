@@ -1,9 +1,87 @@
+
+a {
+    font-weight: inherit;
+    font-style: inherit;
+    text-decoration: none;
+    color: inherit;
+  }
+
 body{
-    background-image:url(/img/pesas.jpg);
+    background-image:url(../img/pesas.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-attachment: fixed;
 }
+
+.textgreen{ color: #7dcb59; }
+
+.logo{
+    font-size: 48px;
+    font-weight: bold;
+    color: white;
+}
+
+
+.contenedorMenu{
+    position: relative;
+    background-image: url(../img/fondoinicio.png);
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+
+.menu{
+    width: 100%;
+    padding: 1.5em 2.7em;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo{
+    font-size: 48px;
+    font-weight: bold;
+    color: white;
+}
+
+.logo a:hover{
+    color: rgba(255, 255, 255, 0.755);
+    cursor: pointer;
+}
+
+.menu ul{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.menu li{
+    margin: 0 .9em; 
+    list-style-type: none;
+    font-size: 19px;
+}
+
+ul li{ color: white; }
+
+.menu .nav .ul .li .a{ text-transform: uppercase; }
+.menu .nav .ul .li .a:hover{ color: gray; }
+
+.registro{
+    background-color: #7dcb59;
+    color: rgb(255, 255, 255);
+    padding: 10px 25px;
+    border-radius: 10px;
+    font-weight: bold;
+    border: none;
+    font-size: 18px;
+}
+
+.registro:hover{
+    background-color: #548b3cf0;
+    cursor: pointer;
+}
+
+
 
 .formulario{
     background: rgba(0,0,0,0);
@@ -21,14 +99,24 @@ body{
     margin:0 0 0 50px;
 }
 
+.cancelar:hover{
+    background-color: rgba(255, 255, 255, 0.607);
+    cursor: pointer;
+}
+
 .aceptar{
-    background: rgba(125,204,89,255);
+    background: #7dcb59;
     padding: 10px;
     font-size: 10px;
     font-weight: 700;
     color: white;
     font-style: inherit;
     float: left;
+}
+
+.aceptar:hover{
+    background-color: #548b3cf0;
+    cursor: pointer;
 }
 
 .altura-a-b{

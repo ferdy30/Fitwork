@@ -18,7 +18,8 @@
 ## Herramintas: :computer:
 -Firebase 
 https://console.firebase.google.com/project/workfit-85179/overview?hl=es-419
-
+-Trello
+https://trello.com/b/DEVuEXpR/daw-salud-y-ejercicio
 
 ## Guia de instalación :clipboard:
 Antes de comenzar, asegurese de tener instaldo:<br>

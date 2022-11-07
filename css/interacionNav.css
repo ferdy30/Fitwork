@@ -1,0 +1,41 @@
+.navbvar ul li::before{
+    content: "";
+    height: 3px;
+    width: 0;
+    background: #7DCB59;
+    position: absolute;
+    left: 0;
+    bottom: -12px;
+    transition: 0.4s ease-out;
+}
+.navbvar ul li:hover::before{
+    width: 100%;
+}
+
+.container1{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient( rgba(5, 10, 5, 0.80) url(https://wallpapercave.com/wp/wp6330866.jpg));
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.navbvar{
+    width: 98%;
+    margin: auto;
+    padding: 10px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.navbvar ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+    position: relative;
+}
+.navbvar ul li a{
+    text-decoration: none;
+    color: white;
+    font-family: "Roboto";
+}

@@ -1,6 +1,6 @@
 /* import { GoogleAuthProvider, signInWithPopup } from "https://www.gstatic.com/firebasejs/9.10.0/firebase-auth.js"
 import { auth } from "./firebase.js";
-import './singinForm.js' 
+
 
 const googleButton = document.querySelector("#googleLogin"); 
 
@@ -16,4 +16,5 @@ googleButton.addEventListener("click", async (e) => {
     } catch (error) {
       console.log(error);
     }
-  }); */
+  });
+ */

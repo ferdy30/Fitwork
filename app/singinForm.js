@@ -3,6 +3,7 @@ import { signInWithEmailAndPassword } from "https://www.gstatic.com/firebasejs/9
 import { auth } from './firebase.js' 
 import { showMessage } from './showMessage.js'
 import './googleLogin.js'
+import '../app/facebookLogin.js'
 
 const signInForm = document.querySelector('#login-form')
 
@@ -16,7 +17,7 @@ signInForm.addEventListener('submit', async (e) => {
         const credentials = await signInWithEmailAndPassword(auth, email, password)
         console.log(credentials)
 
-        window.location.href = "../peso.html"
+        window.location.href = "../sesion.html"
 
     } catch (error) {
         console.log(error.code)

@@ -165,13 +165,13 @@
 .btngoogle{
     width: 100%;
     height: 50px;
-    background: #fff;
+    background: rgb(255, 255, 255);
     border-radius: 10px;
     color: #000;
     font-size: 19px;
     font-weight: bold;
     border: none;
-    margin: 5% 0;
+    margin: 5% 0 0 0;
 }
 
 .btngoogle:hover{
@@ -179,5 +179,34 @@
     cursor: pointer;
 }
 
+.g1{color: #4086F5;}
+
+.o2{color: #EA4132}
+
+.o3{color: #FBBD01}
+
+.g4{color: #4086F5}
+
+.l5{color: #31AA52}
+
+.e6{color: #EA4132}
+
+
+.btnfacebook{
+    width: 100%;
+    height: 50px;
+    background: #1672E7;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    font-size: 19px;
+    font-weight: bold;
+    border: none;
+    margin: 5% 0 0 0;
+}
+
+.btnfacebook:hover{
+    background: #3d82dd;
+    cursor: pointer;
+}
 
 

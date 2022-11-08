@@ -18,6 +18,7 @@
 ## Manual de usuario:
 
 ## Manual Tecnico:
+https://drive.google.com/file/d/1DBoQd0zrNHnMDSorlFq2D4m0f9PWbjSB/view?usp=sharing
 
 ## Herramintas: :computer:
 -Firebase 

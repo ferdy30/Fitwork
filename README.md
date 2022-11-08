@@ -16,6 +16,7 @@
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licencia Creative Commons Atribución-NoComercial 4.0 Internacional</a>.
 
 ## Manual de usuario:
+https://drive.google.com/file/d/1s3MiUHxXsyN3_owiR7U47aJy0GH38JM5/view?usp=sharing
 
 ## Manual Tecnico:
 https://drive.google.com/file/d/1DBoQd0zrNHnMDSorlFq2D4m0f9PWbjSB/view?usp=sharing

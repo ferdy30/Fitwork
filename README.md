@@ -25,7 +25,7 @@ https://drive.google.com/file/d/1DBoQd0zrNHnMDSorlFq2D4m0f9PWbjSB/view?usp=shari
 -Firebase 
 https://console.firebase.google.com/project/workfit-85179/overview?hl=es-419<br>
 -Trello
-https://trello.com/b/DEVuEXpR/daw-salud-y-ejercicio
+https://trello.com/b/DEVuEXpR/daw-salud-y-ejercicio<br>
 -wireframes
 https://www.figma.com/file/YauJJhmko7hHH5UDPoTsvR/Untitled?node-id=0%3A1
 

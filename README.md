@@ -27,6 +27,7 @@ https://console.firebase.google.com/project/workfit-85179/overview?hl=es-419<br>
 -Trello
 https://trello.com/b/DEVuEXpR/daw-salud-y-ejercicio
 -wireframes
+https://www.figma.com/file/YauJJhmko7hHH5UDPoTsvR/Untitled?node-id=0%3A1
 
 ## Guia de instalación :clipboard:
 Antes de comenzar, asegurese de tener instaldo:<br>

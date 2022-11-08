@@ -1,4 +1,4 @@
-/* import { createUserWithEmailAndPassword } from "https://www.gstatic.com/firebasejs/9.13.0/firebase-auth.js"
+import { createUserWithEmailAndPassword } from "https://www.gstatic.com/firebasejs/9.13.0/firebase-auth.js"
 
 const singupForm = document.querySelector('#singup-form')
 import { auth } from './firebase.js' 
@@ -44,10 +44,10 @@ singupForm.addEventListener('submit', async (e) => {
 
 })
 
- */
 
 
-import { createUserWithEmailAndPassword } from "https://www.gstatic.com/firebasejs/9.10.0/firebase-auth.js"
+
+/* import { createUserWithEmailAndPassword } from "https://www.gstatic.com/firebasejs/9.10.0/firebase-auth.js"
 import { auth } from "./firebase.js";
 import { showMessage } from "./showMessage.js";
 
@@ -85,4 +85,4 @@ signUpForm.addEventListener("submit", async (e) => {
     }
   }
 
-});
+}); */

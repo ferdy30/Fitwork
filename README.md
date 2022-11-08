@@ -15,10 +15,18 @@
 ### Licencia Creative Commons
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Esta obra está bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licencia Creative Commons Atribución-NoComercial 4.0 Internacional</a>.
 
+## Manual de usuario:
+https://drive.google.com/file/d/1s3MiUHxXsyN3_owiR7U47aJy0GH38JM5/view?usp=sharing
+
+## Manual Tecnico:
+https://drive.google.com/file/d/1DBoQd0zrNHnMDSorlFq2D4m0f9PWbjSB/view?usp=sharing
+
 ## Herramintas: :computer:
 -Firebase 
-https://console.firebase.google.com/project/workfit-85179/overview?hl=es-419
-
+https://console.firebase.google.com/project/workfit-85179/overview?hl=es-419<br>
+-Trello
+https://trello.com/b/DEVuEXpR/daw-salud-y-ejercicio
+-wireframes
 
 ## Guia de instalación :clipboard:
 Antes de comenzar, asegurese de tener instaldo:<br>

@@ -5,8 +5,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="icon" type="image/x-icon" href="../favicon.ico">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
     <link rel="stylesheet" href="css/registro.css">
-    <script src="js/validacion.js"></script>
+    <script src="js/validacion.js" type="module"></script>
     <title>Registro</title>
 </head>
 <body>
@@ -15,29 +17,26 @@
             <h1 class="logo"><a href="index.html">Work<span class="textgreen">fit</span></a></h1>
         </header>
 
-        //contenedor formulario
+        <!-- contenedor formulario -->
         <div class="contenedor">
             <div class="contenedorRegistro">
                 
                     <h1>registro</h1>
                 
                     <div class="contenedorformulario">
-                        <form id="form" method="Post" action="">
-                            <div class="inputContenedor" id="grupo__nombre">
-                                <input type="text" required class="txtform"  name="txtnombre" id="txtnombre" placeholder="Nombre">
-                            </div>
-    
+                        <form id="singup-form">            
                             <div class="inputContenedor" id="grupo__correo">
-                                <input type="text" name="txtcorreo" required class="txtform" id="txtcorreo" placeholder="Correo electronico">
+                                <input type="email" required class="txtform" id="signup-email" placeholder="Correo electronico">
                             </div>
     
                             <div class="inputContenedor" id="grupo__contra">
-                                <input type="password" required class="txtform" name="txtcontraseña" id="txtcontraseña" placeholder="Contraseña">                        
+                                <input type="password" required class="txtform" id="signup-password" placeholder="Contraseña">                        
                             </div>
                             
                             <div class="contenedorBotones">
-                                <input type="button" class="btncancelar" value="Cancelar" onclick="location.href='../Fitwork/index.html'">
-                                <button type="submit" class="btnaceptar">Aceptar</button>>                                
+                                <input type="button" class="btncancelar" value="Cancelar" onclick="location.href='./login.html'">
+                                
+                                <button type="submit" class="btnaceptar">Aceptar</button>                               
                             </div>                            
                         </form>
                     </div>

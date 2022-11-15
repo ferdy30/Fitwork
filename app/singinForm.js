@@ -2,7 +2,7 @@ import { signInWithEmailAndPassword } from "https://www.gstatic.com/firebasejs/9
 
 import { auth } from './firebase.js' 
 import { showMessage } from './showMessage.js'
-import './googleLogin.js'
+import '../app/googleLogin.js'
 import '../app/facebookLogin.js'
 
 const signInForm = document.querySelector('#login-form')
